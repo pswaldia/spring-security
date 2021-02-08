@@ -11,3 +11,7 @@ jpa-authentication/.classpath
 jpa-authentication/HELP.md
 jpa-authentication/.project
 jpa-authentication/.settings
+.classpath
+.project
+.mvn
+.settings

@@ -5,3 +5,9 @@ spring-security-jdbc/HELP.md
 spring-security-jdbc/.project
 spring-security-jdbc/.settings
 .DS_Store
+jpa-authentication/.mvn
+jpa-authentication/target
+jpa-authentication/.classpath
+jpa-authentication/HELP.md
+jpa-authentication/.project
+jpa-authentication/.settings
